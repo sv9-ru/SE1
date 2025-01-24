@@ -1,5 +1,5 @@
 #include <iostream>
-
+//b
 using namespace std;
 
 int main()
@@ -12,6 +12,7 @@ int main()
     cout << "input number 2" << endl;
     std::cin >> i2;
     cout << i+i2 << endl;
+    cout << i-i2 << endl;
 
     return 0;
 }
