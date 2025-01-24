@@ -5,9 +5,13 @@ using namespace std;
 int main()
 {
     int i;
+    int i2;
     cout << "Hello world!" << endl;
     cout << "input number" << endl;
     std::cin >> i;
+    cout << "input number 2" << endl;
+    std::cin >> i2;
+    cout << i+i2 << endl;
 
     return 0;
 }
