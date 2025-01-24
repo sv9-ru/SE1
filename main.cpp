@@ -1,7 +1,9 @@
 #include <iostream>
-
+//
+// This program is just an example one under VCS.
+// Author: Daria Trofimova
+//
 //b
-
 //a
 // программа является учебной
 
@@ -18,6 +20,7 @@ int main()
     std::cin >> i2;
     cout << i+i2 << endl;
     cout << i-i2 << endl;
+    cout << i*i2 << endl;
 
     return 0;
 }
