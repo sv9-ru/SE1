@@ -20,7 +20,7 @@ int main()
     std::cin >> i2;
     cout << i+i2 << endl;
     cout << i-i2 << endl;
-    cout << i*i2 << endl;
+    cout << i/i2 << endl;
 
     return 0;
 }
